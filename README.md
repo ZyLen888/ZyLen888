@@ -1,6 +1,6 @@
 ### Hi there ! 👋 I am Zhen Liu, you can also call me Meimi.
 
-✌️ **Second Year** student of Bachelor of Science, Majoring in Computing and Software System at The University of Melbourne.  
+✌️ **Second Year 1st Semester** student of Bachelor of Science, Majoring in Computing and Software System at The University of Melbourne.  
 
 🙋‍♀️ Woman in Tech!  
 
