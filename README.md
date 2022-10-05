@@ -1,4 +1,23 @@
-### Hi there 👋
+### Hi there ! 👋 I am Zhen Liu, you can also call me Meimi.
+
+✌️ **Second Year** student of Bachelor of Science, Majoring in Computing and Software System at The University of Melbourne.  
+
+🙋‍♀️ Woman in Tech!  
+
+💪 Comfortable in **Python** and **Java** but still learning...  
+
+👀 Have some statistics work done in **R** and some queries written in **SQL (MySQL)**  
+
+🔥 Grinding through **C** and **C++**  
+
+🛣 Currently working on **ReactJS**, **TypeScript**, **Web Development** and **Machine Learning** (Repositories will be added soon...)  
+
+⚠️ Gradually migrating my projects to this GitHub page, **as some of the projects are school work, I may not be able to release the code before mark is released.** 
+
+🔗 Check out my [LinkedIn Profile](https://www.linkedin.com/in/zhenliumeimiliu/)! 
+
+📑 Check out my Online CV and information about me [Here](https://drive.google.com/drive/folders/1alPJq52asqQMbG6YwMCJ5WTc3TV3INh5?usp=sharing)  
+
 
 <!--
 **ZyLen888/ZyLen888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
