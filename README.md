@@ -16,9 +16,6 @@
 
 🔗 Check out my [LinkedIn Profile](https://www.linkedin.com/in/zhenliumeimiliu/)! 
 
-📑 Check out my Online CV and information about me [Here](https://drive.google.com/drive/folders/1alPJq52asqQMbG6YwMCJ5WTc3TV3INh5?usp=sharing)  
-
-
 <!--
 **ZyLen888/ZyLen888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
