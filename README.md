@@ -4,7 +4,7 @@
 
 🙋‍♀️ Woman in Tech!  
 
-💪 Comfortable in **Python** and **Java** but still learning...  
+💪 Comfortable in **Python** and **Java** and still learning...  
 
 👀 Have some statistics work done in **R** and some queries written in **SQL (MySQL)**  
 
