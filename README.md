@@ -10,7 +10,7 @@
 
 🔥 Grinding through **C** and **C++**  
 
-🛣 Currently working on **ReactJS**, **TypeScript**, **Web Development** and **Machine Learning** (Repositories will be added soon...)  
+🛣 Currently learning **ReactJS**, **TypeScript**, **Web Development** and **Machine Learning** (Repositories will be added soon...)  
 
 ⚠️ Gradually migrating my projects to this GitHub page, **as some of the projects are school work, I may not be able to release the code before mark is released.** 
 
