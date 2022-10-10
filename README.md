@@ -14,8 +14,23 @@
 
 ⚠️ Gradually migrating my projects to this GitHub page, **as some of the projects are school work, I may not be able to release the code before mark is released.** 
 
-🔗 Check out my [LinkedIn Profile](https://www.linkedin.com/in/zhenliumeimiliu/)! 
+👌 **Two Truths One lie** (Try to find answers in my [LinkedIn Profile](https://www.linkedin.com/in/zhenliumeimiliu/))
+   - My teenage period was spent living in a boarding house
+   - I can eat pretty spicy stuff like hotpot
+   - I can speak 3 languages!
 
+🎓 **Courses learned so far at Uni** with skills listed:
+   - Database System (SQL, MySQL)
+   - Element of Data Processing (Python & Data Analysis) 
+   - Algorithms and Data Structures (C) 
+   - Object-Oriented Software Development (Java)
+   - Foundation of Algorithm (C)
+   - Foundation of Computing (Python) 
+   - Statistics (R)
+   - Probability for Statistics (R)
+   - Linear Algebra (MATLAB)
+
+ 
 <!--
 **ZyLen888/ZyLen888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
