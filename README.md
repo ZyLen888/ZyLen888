@@ -14,10 +14,11 @@
 
 ⚠️ Gradually migrating my projects to this GitHub page, **as some of the projects are school work, I may not be able to release the code before mark is released.** 
 
-👌 **Two Truths One lie** (Try to find answers in my [LinkedIn Profile](https://www.linkedin.com/in/zhenliumeimiliu/))
-   - My teenage period was spent living in a boarding house
+👌 **Three Truths One lie** (Try to find answers in my [LinkedIn Profile](https://www.linkedin.com/in/zhenliumeimiliu/))
+   - Delivered a speech to 150 industry professionals at the 4th National STEM education conference when I was 16
    - I can eat pretty spicy stuff like hotpot
-   - I can speak 3 languages!
+   - I can speak 3 languages (Guess what languages?)
+   - I draw random stuff on Instagram
 
 🎓 **Courses learned so far at Uni** with skills listed:
    - Database System (SQL, MySQL)
