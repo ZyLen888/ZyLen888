@@ -6,8 +6,6 @@
 
 💪 Comfortable in **Python** and **Java** and still learning...  
 
-👀 Have some statistics analysis work done in **R** and some queries written in **SQL (MySQL)**  
-
 🔥 Grinding through **C** for algorithms & data structure.
 
 🛣 Currently learning **ReactJS**, **TypeScript** for frontend, **C#** for backend and **Machine Learning** (Repositories will be added soon...)  
