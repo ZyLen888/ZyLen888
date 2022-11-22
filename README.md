@@ -8,9 +8,9 @@
 
 👀 Have some statistics analysis work done in **R** and some queries written in **SQL (MySQL)**  
 
-🔥 Grinding through **C** for algorithms & data structure and **C#** for game development
+🔥 Grinding through **C** for algorithms & data structure.
 
-🛣 Currently learning **ReactJS**, **TypeScript**, **Web Development** and **Machine Learning** (Repositories will be added soon...)  
+🛣 Currently learning **ReactJS**, **TypeScript** for frontend, **C#** for backend and **Machine Learning** (Repositories will be added soon...)  
 
 ⚠️ Gradually migrating my projects to this GitHub page, **as some of the projects are school work, I may not be able to release the code before mark is released.** 
 
