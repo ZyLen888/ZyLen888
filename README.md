@@ -8,7 +8,7 @@
 
 🔥 Grinding through **C** for algorithms & data structure.
 
-🛣 Currently learning **ReactJS**, **TypeScript** for frontend, **C#** for backend and **Machine Learning** (Repositories will be added soon...)  
+🛣 Currently learning **ReactJS**, **TypeScript** for frontend, **C#**, **.NET** for backend and **Machine Learning** (Repositories will be added soon...)  
 
 ⚠️ Gradually migrating my projects to this GitHub page, **as some of the projects are school work, I may not be able to release the code before mark is released.** 
 
