@@ -1,6 +1,6 @@
 ### Hi there ! 👋 I am Zhen Liu, you can also call me Meimi.
 
-✌️ **Second Year 1st Semester** student of Bachelor of Science, Majoring in Computing and Software System at The University of Melbourne.  
+✌️ **Penultimate year** student of Bachelor of Science, Majoring in Computing and Software System at The University of Melbourne.  
 
 🙋‍♀️ Woman in Tech!  
 
@@ -8,7 +8,7 @@
 
 🔥 Grinding through **C** for algorithms & data structure.
 
-🛣 Currently learning **ReactJS**, **TypeScript** for frontend, **C#**, **.NET** for backend and **Machine Learning** (Repositories will be added soon...)  
+🛣 Learning **ReactJS**, **TypeScript** for frontend, **C#**, **.NET** for backend and **Machine Learning** (Repositories will be added soon...)  
 
 ⚠️ Gradually migrating my projects to this GitHub page, **as some of the projects are school work, I may not be able to release the code before mark is released.** 
 
@@ -28,6 +28,7 @@
    - Statistics (R)
    - Probability for Statistics (R)
    - Linear Algebra (MATLAB)
+   - Software Modelling and Design (Java)
 
  
 <!--
