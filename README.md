@@ -1,8 +1,10 @@
-### Hi there ! 👋 I am Zhen Liu, you can also call me Meimi.
+<h1> Hi there ! 👋 I am Zhen Liu, you can also call me Meimi.</h1>
 
-✌️ **Penultimate year** student of Bachelor of Science, Majoring in Computing and Software System at The University of Melbourne.  
+<p align='center'><img src="https://komarev.com/ghpvc/?username=ZyLen888"/></p>
 
-🙋‍♀️ Woman in Tech!  
+✌️ **Penultimate year** student of Bachelor of Science, Majoring in Computing and Software System at The University of Melbourne. 
+
+🙋‍♀️ Woman in Tech! (She/Her)
 
 💪 Comfortable in **Python** and **Java** and still learning...  
 
@@ -30,7 +32,15 @@
    - Linear Algebra (MATLAB)
    - Software Modelling and Design (Java)
 
- 
+    
+<p align='center'>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ZyLen888&show_icons=true&locale=en" alt="zl888" /></p>
+
+<p align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ZyLen888&" alt="zl-888" /></p>
+
+<h3 align='center'>Some laughters before you go 🤣</h3>
+
+<p align='center'><a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a></p>
+   
 <!--
 **ZyLen888/ZyLen888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
