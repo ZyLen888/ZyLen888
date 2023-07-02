@@ -8,9 +8,7 @@
 
 💪 Comfortable in **Python** and **Java** and still learning...  
 
-🔥 Grinding through **C** for algorithms & data structure.
-
-🛣 Learning **ReactJS**, **TypeScript** for frontend, **C#**, **.NET** for backend and **Machine Learning** (Repositories will be added soon...)  
+🛣 Learned **ReactJS**, **TypeScript** for frontend, **C#**, **.NET** for backend during internship, and now I am building fun stuff with them!
 
 ⚠️ Gradually migrating my projects to this GitHub page, **as some of the projects are school work, I may not be able to release the code before mark is released.** 
 
