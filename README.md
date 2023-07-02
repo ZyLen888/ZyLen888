@@ -14,6 +14,8 @@
 
 ⚠️ Gradually migrating my projects to this GitHub page, **as some of the projects are school work, I may not be able to release the code before mark is released.** 
 
+👀 Check out my [personal portfolio](https://zhenliu.me/) with rotatable 3D Macbook Model and spinnable white tech stack balls! 
+
 👌 **Three Truths One lie** (Try to find answers in my [LinkedIn Profile](https://www.linkedin.com/in/zhenliumeimiliu/))
    - Delivered a speech to 150 industry professionals at the 4th National STEM education conference when I was 16
    - I can eat pretty spicy stuff like hotpot
