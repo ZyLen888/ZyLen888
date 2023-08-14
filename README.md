@@ -15,24 +15,22 @@
 👀 Check out my [personal portfolio](https://zhenliu.me/) with rotatable 3D Macbook Model and spinnable white tech stack balls! 
 
 👌 **Three Truths One lie** (Try to find answers in my [LinkedIn Profile](https://www.linkedin.com/in/zhenliumeimiliu/))
-   - Delivered a speech to 150 industry professionals at the 4th National STEM education conference when I was 16
+   - Launched a start-up during the Winter break! (July 2023)
    - I can eat pretty spicy stuff like hotpot
    - I can speak 3 languages (Guess what languages?)
    - I draw random stuff on Instagram
 
 🎓 **Courses learned so far at Uni** with skills listed:
+   - Software Modelling and Design (Java)
    - Database System (SQL, MySQL)
    - Element of Data Processing (Python & Data Analysis) 
    - Algorithms and Data Structures (C) 
    - Object-Oriented Software Development (Java)
    - Foundation of Algorithm (C)
    - Foundation of Computing (Python) 
-   - Statistics (R)
    - Probability for Statistics (R)
    - Linear Algebra (MATLAB)
-   - Software Modelling and Design (Java)
 
-    
 <p align='center'>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ZyLen888&show_icons=true&locale=en" alt="zl888" /></p>
 
 <p align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ZyLen888&" alt="zl-888" /></p>
